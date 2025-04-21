@@ -1,6 +1,7 @@
 import React from "react";
 import { SocialMedias } from "@/lib/links";
 import satumbo92 from "@/public/home/satumbo9-2.png";
+
 import Image from "next/image";
 import Link from "next/link";
 import ExperienceTimeline from "@/components/ui/TimeLineItem";
