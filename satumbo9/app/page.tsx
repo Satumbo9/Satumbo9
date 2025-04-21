@@ -6,12 +6,12 @@ import FAQSection from "./ FAQ/ FAQ";
 
 export default function Home() {
   return (
-    <main className="mx-auto">
+    <main className="mx-auto scroll-smooth">
       <Nav />
-      <HeroSection />
-      <PricingPlan />
+      <HeroSection id="Home" />
+      <PricingPlan id="Plans" />
       <Skills />
-      <FAQSection id="#FQA" />
+      <FAQSection id="FAQ" />
     </main>
   );
 }
