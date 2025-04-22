@@ -2,6 +2,10 @@ import { FaXTwitter } from "react-icons/fa6";
 import { FaYoutube } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa6";
+import { IoLogoInstagram } from "react-icons/io5";
+import { SiPexels } from "react-icons/si";
+
+
 
 const NavLinks = [
   {
@@ -19,6 +23,12 @@ const NavLinks = [
     text: "FAQ",
     route: "#FAQ",
   },
+
+  {
+    id: 4,
+    text: "Art-Work",
+    route: "/ArtWork",
+  },
 ];
 
 const SocialMedias = [
@@ -30,21 +40,33 @@ const SocialMedias = [
   },
   {
     id: 2,
+    text: "Instagram",
+    route: "https://www.instagram.com/satumbo9/",
+    icons: IoLogoInstagram,
+  },
+  {
+    id: 3,
     text: "Youtube",
     route: "https://www.youtube.com/@Satumbo9Hub",
     icons: FaYoutube,
   },
   {
-    id: 3,
+    id: 4,
     text: "GitHub",
     route: "https://github.com/Satumbo9",
     icons: FaGithub,
   },
   {
-    id: 4,
+    id: 5,
     text: "LinkedIn",
     route: "https://www.linkedin.com/in/edimarf-satumbo-96b725143/",
     icons: FaLinkedin,
+  },
+  {
+    id: 6,
+    text: "Pexels",
+    route: "https://www.pexels.com/@satumbo-9-436475624/stats/",
+    icons: SiPexels,
   },
 ];
 
@@ -77,7 +99,7 @@ const Plans: Plan[] = [
       "Mentorship + Slack access",
       "24h response time",
     ],
-    badge: "Popular",
+    badge: "Premium",
   },
   {
     title: "Tech Partner",

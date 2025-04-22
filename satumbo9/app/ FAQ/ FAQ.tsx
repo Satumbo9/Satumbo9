@@ -15,10 +15,10 @@ export default function FAQSection({ id }: { id: string }) {
         <h2 className="text-3xl font-bold">FAQ</h2>
       </div>
 
-      <Accordion type="single" collapsible className="w-full">
+      <Accordion type="single" collapsible className="w-full ">
         {FAQ.map((item, i) => (
           <AccordionItem key={i} value={`faq-${i}`}>
-            <AccordionTrigger className="text-left text-lg">
+            <AccordionTrigger className="text-left text-lg cursor-pointer">
               {item.question}
             </AccordionTrigger>
             <AccordionContent className="text-sm text-gray-400">
