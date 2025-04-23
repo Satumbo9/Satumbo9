@@ -1,9 +1,4 @@
-<!-- Light Mode Image -->
-![Project Banner](./assets/banner-light.png#gh-light-mode-only)
-<!-- Dark Mode Image -->
-![Project Banner](./assets/banner-dark.png#gh-dark-mode-only)
-
-# 👋 Hi, I'm Edimarf Satumbo
+Edimarf Satumbo
 
 **Software Engineer | AI Builder | UX Enthusiast**
 
@@ -55,7 +50,7 @@ A recycling initiative in Angola aimed at transforming waste management practice
 
 I'm always open to collaboration, mentorship, or feedback.
 
-- 🌐 Portfolio: https://instagram.com/satumbo9
+- 🌐 Portfolio: [https://instagram.com/satumbo9](https://www.satumbo9.com/)
 - 📸 [Instagram – @Satumbo9](https://instagram.com/satumbo9)
 - 💼 [LinkedIn – Edimarf Satumbo](https://linkedin.com/in/edimarf)
 - 📧 Email: hello@satumbo9.com
