@@ -1,70 +1,64 @@
-# 👨🏾‍💻 Edimarf Satumbo – Software Engineer | AI Builder | UX Enthusiast
+<!-- Light Mode Image -->
+![Project Banner](./assets/banner-light.png#gh-light-mode-only)
+<!-- Dark Mode Image -->
+![Project Banner](./assets/banner-dark.png#gh-dark-mode-only)
 
-Welcome! I'm Edimarf Satumbo, a software engineer and entrepreneur passionate about building tools that empower people. From web apps and AI-powered chatbots to platforms for social impact, I combine code and creativity to solve real-world problems. This repository is a showcase of my professional experience, personal projects, and ongoing innovation in software and AI.
+# 👋 Hi, I'm Edimarf Satumbo
+
+**Software Engineer | AI Builder | UX Enthusiast**
+
+I'm passionate about crafting intuitive user experiences and building scalable applications. With a strong foundation in full-stack development and a keen eye for design, I specialize in creating solutions that are both functional and aesthetically pleasing.
 
 ---
 
 ## 🛠️ Tech Stack
 
-I specialize in **modern full-stack development** with a strong focus on AI integration, UX design, and scalable architecture.
-
-**Languages & Frameworks**
-- `TypeScript`, `JavaScript`, `Python`
-- `Next.js`, `React`, `FastAPI`, `Tailwind CSS`
-
-**Tools & Libraries**
-- `LangChain`, `OpenAI`, `Mistral`, `Qdrant`, `Prisma`, `MongoDB`, `SQL`
-- `Shadcn`, `Figma`, `Raspberry Pi`, `Azure DevOps`
-
-**Skills**
-- Generative AI & RAG-based Chatbots
-- Frontend/UI Design & Usability
-- Backend APIs & Microservices
-- Prompt Engineering & Multimodal Interfaces
-- Agile Workflows, QA Testing & Deployment
+- **Languages:** TypeScript, JavaScript, Python
+- **Frontend:** React, Next.js, Tailwind CSS, Shadcn UI
+- **Backend:** FastAPI, Node.js, Prisma, MongoDB, SQL
+- **AI & ML:** OpenAI, LangChain, Mistral, Qdrant
+- **Tools:** Figma, Azure DevOps, Raspberry Pi
 
 ---
 
-## 🚀 Projects & Highlights
+## 🚀 Projects
 
 ### 🧠 MiCamp AI Assistant *(In Progress)*
-A chatbot built with **FastAPI + LangChain + Mistral**, trained on PDF and XML files to answer merchant-related questions, guide POS setup, and handle support cases. Uses **Qdrant** for vector search and **Next.js** for UI.
 
-> Goal: Help U.S. merchants optimize their experience with Clover terminals.
+A chatbot built with **FastAPI**, **LangChain**, and **Mistral**, trained on PDF and XML files to assist merchants with POS setup and support. Utilizes **Qdrant** for vector search and **Next.js** for the frontend.
 
----
+> *Empowering U.S. merchants to optimize their Clover terminal experience.*
 
 ### 💬 Smart Chat App
-A real-time messaging app using **Python, WebSockets, and ML-based sentiment analysis**, with Raspberry Pi GPIO LEDs that light up based on message sentiment (green for positive, yellow for warning, red for offensive).
 
-> Educational tool for schools and workspaces to encourage better communication.
+A real-time messaging application using **Python**, **WebSockets**, and sentiment analysis. Features Raspberry Pi GPIO LEDs that light up based on message sentiment (green for positive, yellow for warning, red for offensive).
+
+> *Promoting positive communication in educational and professional settings.*
+
+### ♻️ [AkombeVeya](https://akombeveya.com/)
+
+A recycling initiative in Angola aimed at transforming waste management practices. The next phase includes AI for educational outreach, waste sorting suggestions, and route optimization.
+
+> *Presented at the **AFS Youth Assembly at the UN** as an innovative solution for sustainable development.*
 
 ---
 
-### 🌍 [AkombeVeya](https://akombeveya.com/)
-A recycling initiative in Angola aimed at transforming waste management practices. The next phase will include AI for educational outreach, waste sorting suggestions, and route optimization.
-
-> Invited to the **AFS Youth Assembly at the UN** to present this innovation.
-
----
-
-## 🔧 Current Goals
+## 🎯 Current Goals
 
 - Launch the AI-powered merchant assistant with real-world clients
-- Finalize a **Raspberry Pi-based driving assistant** using computer vision + LLM
-- Build a **youth-friendly travel platform (AfreekaPass)** to connect African and American communities
+- Finalize a **Raspberry Pi-based driving assistant** using computer vision and LLMs
+- Develop **AfreekaPass**, a youth-friendly travel platform connecting African and American communities
 
 ---
 
-## 📬 Let's Connect
+## 📫 Let's Connect
 
 I'm always open to collaboration, mentorship, or feedback.
 
-- 🌐 [Portfolio (Coming Soon)]()
+- 🌐 Portfolio: https://instagram.com/satumbo9
 - 📸 [Instagram – @Satumbo9](https://instagram.com/satumbo9)
 - 💼 [LinkedIn – Edimarf Satumbo](https://linkedin.com/in/edimarf)
-- 📧 Email: edimarf.satumbo@gmail.com
+- 📧 Email: hello@satumbo9.com
 
 ---
 
-## ⭐️ Star this repo if you'd like to follow my journey and future releases.
