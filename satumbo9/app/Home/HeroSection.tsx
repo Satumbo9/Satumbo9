@@ -13,7 +13,7 @@ const HeroSection = ({ id }: { id: string }) => {
         <div className="w-full max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-10 items-center">
           <div className="space-y-6">
             <div>
-              <h1 className="text-5xl md:text-6xl text-pink-500 font-extrabold tracking-tight  drop-shadow-[0_0_15px_rgba(255,0,255,0.4)]">
+              <h1 className="text-5xl md:text-6xl text-pink-500 font-extrabold tracking-tight  ">
                 Edimarf Satumbo
               </h1>
 
