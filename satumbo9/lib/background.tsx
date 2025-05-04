@@ -33,6 +33,7 @@ const Timeline: TimelineItem[] = [
     description: `Worked closely with mentors, improved soft skills, and developed leadership through real-world teamwork and professional collaboration.`,
     badge: "On-site",
   },
+
 ];
 const FAQ = [
   {
@@ -115,6 +116,7 @@ const SkillGroups = [
       "Teaching",
     ],
   },
+
 ]
 
 const Certifications = [

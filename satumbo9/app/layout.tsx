@@ -1,3 +1,4 @@
+import { Analytics } from "@vercel/analytics/react"
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import satumbo92 from "@/public/logo/satumbo9-2.png";
@@ -72,6 +73,7 @@ export default function RootLayout({
       <body className="bg-black text-white font-sans antialiased overflow-y-auto min-h-screen">
         <main className="max-w-screen-xl mx-auto px-6 md:px-16 w-full">
           {children}
+          <Analytics />
         </main>
       </body>
     </html>
